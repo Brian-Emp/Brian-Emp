@@ -1,4 +1,4 @@
-<h1 align="center">Brian — Student & Full-Stack Junior Developer 🇫🇷</h1>
+<h1 align="center">Brian — Student french dev 🇫🇷</h1>
 
 <p align="center">
   <a href="https://github.com/Brian-Emp">
