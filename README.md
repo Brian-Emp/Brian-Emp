@@ -5,7 +5,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2D3748&center=true&vCenter=true&width=500&lines=BTS+SIO+Student+%40+EPSI+Lyon;Full-Stack+Junior+Developer;" alt="Typing SVG" />
   </a>
 </p>
----
  
 ### 🚀 About me
  
@@ -13,6 +12,7 @@
 - 💻 I build across the stack — **PHP**, **Python/Flask**, **TypeScript**, **MySQL**
 - 🛠️ Into infrastructure labs, technical documentation & local AI setups
 - 👊 Off-screen: climbing, running, freestyle scootering & life/travels vlogs
+
 ---
  
 ### 🧰 Tech Stack
@@ -34,6 +34,7 @@
 - 🤖 Self-hosted AI stack (Ollama + OpenWeb UI) on Apple Silicon
 - 🗒️ Personnal projects (Python Blackjack, API Weather App, Typescipt Todolist App, ...)
 - 🧪 Infrastructure labs & school projects
+
 ---
  
 ### 📫 Get in touch
@@ -46,6 +47,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-2D3748?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
+
 ---
  
 <p align="center">
