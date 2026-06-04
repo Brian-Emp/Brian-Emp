@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Brian 👋</h1>
- 
+<h1 align="center">Brian — Student & Full-Stack Junior Developer 🇫🇷</h1>
+
 <p align="center">
   <a href="https://github.com/Brian-Emp">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=255C99&center=true&vCenter=true&width=500&lines=BTS+SIO+SLAM+Student+%40+EPSI+Lyon;Full-Stack+Junior+Developer" alt="Typing SVG" />
